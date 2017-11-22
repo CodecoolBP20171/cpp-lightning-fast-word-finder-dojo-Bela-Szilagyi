@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/cpp_lightning_fast_word_finder_dojo.dir/main.cpp.o  -o cpp_lightning_fast_word_finder_dojo 

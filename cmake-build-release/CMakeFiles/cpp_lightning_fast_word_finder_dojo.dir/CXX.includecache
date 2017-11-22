@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/en/CLionProjects/cpp-lightning-fast-word-finder-dojo-Bela-Szilagyi/LightningWordFinder.hpp
+iostream
+-
+string
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+
+/home/en/CLionProjects/cpp-lightning-fast-word-finder-dojo-Bela-Szilagyi/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+cerrno
+-
+chrono
+-
+LightningWordFinder.hpp
+/home/en/CLionProjects/cpp-lightning-fast-word-finder-dojo-Bela-Szilagyi/LightningWordFinder.hpp
+
